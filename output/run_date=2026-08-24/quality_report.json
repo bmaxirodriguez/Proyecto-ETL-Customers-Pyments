@@ -1,0 +1,16 @@
+{
+  "run_date": "2026-08-24",
+  "generated_at": "2026-09-07T23:39:18.096129+00:00",
+  "customers": {
+    "read": 5,
+    "accepted": 4,
+    "rejected": 1
+  },
+  "payments": {
+    "read": 7,
+    "accepted": 3,
+    "rejected": 4
+  },
+  "sum_valid_payments": 1484.56,
+  "status": "published"
+}

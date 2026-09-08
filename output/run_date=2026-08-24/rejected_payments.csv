@@ -1,0 +1,5 @@
+payment_id,customer_id,amount,paid_at,error_reason
+P103,C999,10.0,2026-08-24,customer_not_found
+P104,C004,-5.0,2026-08-24,amount_not_positive
+P105,C002,,2026-08-24,invalid_amount_format
+P100,C001,1234.56,2026-08-24,duplicate_payment_id

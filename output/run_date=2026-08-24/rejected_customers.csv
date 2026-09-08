@@ -1,0 +1,2 @@
+customer_id,name,status,error_reason
+C004,Omar Ruiz,active,duplicate_customer_id
